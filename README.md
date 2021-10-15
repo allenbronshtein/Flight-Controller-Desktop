@@ -10,8 +10,8 @@ Make sure you have:
 
 In project dir open cmd and write:
 
-python ./server/dummy_server.py - Load dummy server
+      python ./server/dummy_server.py - Load dummy server
 
-build_and_run - Builds and runs client side (program)
+      build_and_run - Builds and runs client side (program)
 
 Enjoy !!!
