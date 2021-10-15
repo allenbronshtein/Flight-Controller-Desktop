@@ -2,11 +2,11 @@
 
 Make sure you have:
 
-Visual studio 2019 community 
+      Visual studio 2019 community 
 
-Install asp.net and c# desktop dev
+      Install asp.net and c# desktop dev
 
-.net framework 4.8 for developers
+      .net framework 4.8 for developers
 
 In project dir open cmd and write:
 
